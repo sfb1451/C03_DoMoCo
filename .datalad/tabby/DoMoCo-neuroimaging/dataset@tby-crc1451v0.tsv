@@ -1,0 +1,12 @@
+name	DoMoCo-neuroimaging
+title	DoMoCo Neuroimaging Study
+description	Multimodal imaging study (DaT Spect, 3T and 7T MRI data) of a group of prodromal and clinical PD patients as well as healthy controls.
+crc-project	C03
+version	latest
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	UBERON:0000955
+keywords	
+license	
+doi	
+homepage	
+last-updated	2023-07-13 00:00:00

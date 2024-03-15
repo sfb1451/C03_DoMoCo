@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-
+# bold indicates required	
+name	DoMoCo-behavioral
+title	Behavioral
+description	Incentive motivation task, Schab task, working memory fractals task
+crc-project	C03
+version	1
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	UBERON:0000955
+keywords	
+license	
+doi	
+homepage	
+last-updated	
